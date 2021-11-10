@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@300&display=swap');
+* {
+    margin: 10px auto;
+}
+body {
+    background-color: rgb(194, 192, 192);
+}
+.osnova {
+    width: 70%;
+    height: 1350px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.box_wrap1 {
+    width: 400px;
+    height: 90%;
+    background-color: rgb(226, 175, 248);
+    font-size: 25px;
+    font-family: 'Noto Serif Display', serif;
+}
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.box_wrap1 img {
+    width: 340px;
+    height: 340px;
+    object-fit: contain;
+    display: block;
+    margin: 10px auto;
+}
+.box_wrap2 {
+    width: 600px;
+    height: 90%;
+    font-size: 18px;
+    background-color: white;
+    font-family: 'Noto Serif Display', serif;
+    margin-top: 180px;
+}
+.content1 h1 h5 {
+    font-weight: bold;
+}
+.content1 h1 {
+    color: red;
+}
+.content2 h3 {
+    color: red;
+    font-weight: bold;
+}
+.content4 p {
+    color: gray;
+    font-size: 15px;
+}
+.content3 h3 {
+    font-weight: bold;
+}
+.content5 h3 {
+    font-weight: bold;
+}
+.content5 h6 {
+    font-size: 15px;
+    color: gray;
+}
+span {
+    color: red;
+}
